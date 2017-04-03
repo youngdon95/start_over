@@ -1,0 +1,30 @@
+Insert into Employee values ('Doc2', 'Ronald','Stephanie','446-535-1541','838-270-9196','43503 Daniels Trafficway Apt. 753
+Lewisside, MS 18788-9428');
+Insert into Employee values ('Doc4', 'Rodney','Wendy','766-007-6734','637-453-3592','748 Michael Key Suite 094
+Lake Kent, OH 30688-6338');
+Insert into Employee values ('Doc6', 'William','Carla','311-128-2223','220-612-9831','097 Nicole Coves Suite 136
+East Douglas, OR 16735-8308');
+Insert into Employee values ('Doc8', 'Eric','Carolyn','622-792-4389','349-223-5358','2220 Jackie Coves
+Kevinhaven, NE 30767');
+Insert into Employee values ('Doc10', 'William','Alison','478-257-4606','230-704-9220','89409 Hernandez Roads Apt. 264
+Lake Nicolebury, UT 67300-6484');
+Insert into Employee values ('Doc12', 'Ronald','Susan','399-859-1124','272-406-1051','755 Williams Walks Suite 594
+Hornestad, CO 57236-5759');
+Insert into Employee values ('Doc14', 'David','Megan','259-054-9554','895-599-2692','1823 Natasha Fork
+Bowenstad, VT 85784-1791');
+Insert into Employee values ('Doc16', 'Carl','Sharon','234-768-6857','269-871-6711','11430 Montes Centers
+Leechester, MS 33390-4088');
+Insert into Employee values ('Doc18', 'Christopher','Tiffany','121-204-7123','464-126-1629','90287 Thomas Ports
+Port Jenniferfort, AL 45841');
+Insert into Employee values ('Doc20', 'Shawn','Kimberly','398-410-1029','654-532-4212','66231 Roberto Flat
+Shepardhaven, GU 44606-1652');
+Insert into Employee values ('Doc22', 'David','Michelle','960-730-6587','323-717-6434','75247 Delgado Cliff Apt. 570
+Port Kimberly, VA 03638-9825');
+Insert into Employee values ('Doc24', 'Eric','Tracey','369-463-5161','816-655-6472','0263 Davenport Curve
+Elizabethberg, ID 30909');
+Insert into Employee values ('Doc26', 'Carlos','Jessica','671-359-9415','667-801-0136','4658 Pham Cape Suite 852
+Jamesstad, IA 39398-7619');
+Insert into Employee values ('Doc28', 'Richard','Amanda','760-827-2426','661-795-6569','255 Rebecca Forges
+Mariafurt, OK 07440-6142');
+Insert into Employee values ('Doc30', 'Alexander','Jamie','656-715-8807','233-374-8741','6398 Amanda Streets
+Millerborough, CO 31080');

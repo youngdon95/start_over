@@ -1,0 +1,30 @@
+Insert into Employee values ('Nrs1', 'Marcus','Regina','978-838-4673','804-143-7288','32027 Heath Glen
+Joefort, VI 61824');
+Insert into Employee values ('Nrs3', 'Joseph','Angela','456-741-3673','881-643-8378','803 Harmon Squares
+Melissastad, NJ 56402');
+Insert into Employee values ('Nrs5', 'Matthew','Gloria','805-058-1516','989-391-1429','PSC 9815, Box 9241
+APO AA 43243-9042');
+Insert into Employee values ('Nrs7', 'Jeffrey','Katherine','210-032-1680','234-513-8384','435 Paula Village Suite 724
+Charleneport, DC 19804');
+Insert into Employee values ('Nrs9', 'James','Loretta','953-866-3774','255-855-6543','285 Adam Estates
+Fordland, WA 20274');
+Insert into Employee values ('Nrs11', 'Thomas','Mary','286-310-3824','247-514-3680','17487 Smith Station
+Williamschester, VI 12685');
+Insert into Employee values ('Nrs13', 'Daniel','Tiffany','717-314-9755','383-846-2792','17361 Huerta Expressway
+Johnstonburgh, MA 35313-4460');
+Insert into Employee values ('Nrs15', 'Thomas','Kathleen','223-826-8762','329-468-4300','3533 Moody Groves
+North Albertberg, CT 76455');
+Insert into Employee values ('Nrs17', 'Thomas','Susan','321-399-4836','764-841-7422','50937 Jonathan Garden Suite 663
+Josephchester, MS 35007-0547');
+Insert into Employee values ('Nrs19', 'Stephen','Erika','427-386-6301','609-466-8027','04994 Gray Gateway Suite 339
+Jeffreystad, CA 82038-4053');
+Insert into Employee values ('Nrs21', 'Richard','Angela','437-238-5091','919-126-2216','362 Schroeder Corners
+East Sheriport, UT 17067');
+Insert into Employee values ('Nrs23', 'Michael','Michelle','231-741-4532','604-041-1096','USS Hunt
+FPO AP 02419-8967');
+Insert into Employee values ('Nrs25', 'Joseph','Julia','286-167-6302','262-480-5405','09588 Reed Streets Suite 273
+Port Dwayne, OK 59375-4646');
+Insert into Employee values ('Nrs27', 'William','Stacey','855-570-6305','126-719-4852','911 Williams Spring Suite 766
+Austinville, CT 82261');
+Insert into Employee values ('Nrs29', 'Justin','Sara','176-540-0292','684-883-6639','211 Fleming Corner
+Meyerstad, IL 48254-6750');

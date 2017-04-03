@@ -1,0 +1,10 @@
+Insert into Employee values ('Sec32', 'Blake','Shelby','757-158-5959','713-366-5417','809 Amanda Street
+New Katelynberg, NM 05751');
+Insert into Employee values ('Sec34', 'Patrick','Brittney','468-220-5248','798-408-8984','2089 Kristine Plain
+Matthewfurt, MA 35124-6649');
+Insert into Employee values ('Sec36', 'Austin','Cassandra','245-773-3904','413-306-0657','100 Perry Key
+New Christineburgh, NJ 53596-1134');
+Insert into Employee values ('Sec38', 'Wayne','Colleen','770-514-8327','382-165-6768','PSC 0880, Box 1759
+APO AE 42975');
+Insert into Employee values ('Sec40', 'David','Priscilla','505-835-2291','867-069-0349','34419 Larry Lane
+Lake Stephanie, HI 02766-6868');
